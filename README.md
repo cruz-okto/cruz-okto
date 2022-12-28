@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cruz-okto
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning front-end engineering
+- 🌱 I’m currently learning front-end developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
