@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cruz-okto
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning front-end developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, my name is Ridwansyah aka @cruz-okto I'm currently learning more about frontend developer
 
 <!---
 cruz-okto/cruz-okto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
